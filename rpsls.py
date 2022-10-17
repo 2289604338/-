@@ -1,7 +1,7 @@
 #coding:gbk
 """
 第一个小项目：Rock-paper-scissors-lizard-Spock
-作者：土木三班赏箫楠
+
 日期：2020/11/21
 """
 import random
